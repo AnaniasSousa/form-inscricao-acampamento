@@ -1,0 +1,470 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"col",
+				"col-md \tBootstrap 4 Class"
+			],
+			[
+				"btn-",
+				"btn-lg \tBootstrap 4 Class"
+			],
+			[
+				"col-",
+				"col-sm-12 \tBootstrap 4 Class"
+			],
+			[
+				"col-s",
+				"col-sm-10 \tBootstrap 4 Class"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"btn",
+				"btn-block \tBootstrap 4 Class"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"footer",
+				"modal-footer \tBootstrap 4 Class"
+			],
+			[
+				"card-",
+				"card-text \tBootstrap 4 Class"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"card-im",
+				"card-img-top \tBootstrap 4 Class"
+			],
+			[
+				"de",
+				"card-deck \tBootstrap 4 Class"
+			],
+			[
+				"contai",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"ma",
+				"marker-end\tproperty"
+			],
+			[
+				"contine",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"im",
+				"img-thumbnail \tBootstrap 4 Class"
+			],
+			[
+				"col-m",
+				"col-md-10 \tBootstrap 4 Class"
+			],
+			[
+				"dis",
+				"display-1 \tBootstrap 4 Class"
+			],
+			[
+				"ro",
+				"row \tBootstrap 4 Class"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"navbar-f",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"navbar",
+				"navbar-static-top \tBootstrap 3 Class"
+			],
+			[
+				"na",
+				"navbar \tBootstrap 3 Class"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"col-sm",
+				"col-sm-10 \tBootstrap 3 Class"
+			],
+			[
+				"cols",
+				"col-sm-1 \tBootstrap 3 Class"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"nav",
+				"nav-stacked \tBootstrap 3 Class"
+			],
+			[
+				"com",
+				"col-md-12 \tBootstrap 3 Class"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"re",
+				"relative\tposition"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"mi",
+				"mail"
+			],
+			[
+				"bann",
+				"bannerAcampamento"
+			],
+			[
+				"m",
+				"menuPrincipal"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/HOTSITE_ACAMPAMENTO"
+	],
+	"file_history":
+	[
+		"/C/Users/anani/Desktop/cadastro.php",
+		"/C/wamp64/www/HOTSITE_ACAMPAMENTO/formulario_de_inscricao.php",
+		"/C/wamp64/www/HOTSITE_ACAMPAMENTO/index.php",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/aviso.php",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/index.php",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/node_modules/bootstrap/scss/_type.scss",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/node_modules/bootstrap/scss/_variables.scss",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/vars.php",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/node_modules/bootstrap/scss/_card.scss",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/node_modules/bootstrap/scss/_images.scss",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/inscricao_confirmada.php",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/informacoes.php",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/formulario_de_inscricao.php",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/documentos.php",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/style.css",
+		"/C/wamp64/www/HOTSITE ACAMPAMENTO/sftp-config.json",
+		"/C/Users/anani/Desktop/WORK/CLIENTES/E/EVEN/HOTSITE ACAMPAMENTO/inscricao_confirmada.php",
+		"/C/Users/anani/Desktop/WORK/CLIENTES/E/EVEN/HOTSITE ACAMPAMENTO/index.html",
+		"/C/wamp64/www/teste.php",
+		"/C/Users/anani/Desktop/WORK/CLIENTES/E/EVEN/HOTSITE ACAMPAMENTO/sftp-config.json",
+		"/C/Users/anani/Desktop/WORK/CLIENTES/E/EVEN/FORMULÁRIO ACAMPAMENTO/AULAS/index.html",
+		"/C/Users/anani/Desktop/WORK/CLIENTES/E/EVEN/FORMULÁRIO ACAMPAMENTO/sftp-config.json",
+		"/C/Users/anani/Desktop/WORK/CLIENTES/E/EVEN/FORMULÁRIO ACAMPAMENTO/AULAS/sftp-config.json"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"C:\\Users\\anani\\Desktop\\WORK\\CLIENTES\\E\\EVEN\\HOTSITE ACAMPAMENTO\\node_modules\\bootstrap\\scss",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"select",
+			"input",
+			"name",
+			"legend",
+			"<legend>",
+			"col-",
+			"div",
+			"class=\"btn-primary btn-lg\"",
+			"<div class=\"btn-primary btn-lg\">",
+			"btn-primary",
+			"25",
+			"id=\"btn\"",
+			"h5",
+			"link",
+			"cards",
+			"colors",
+			"width: 150px",
+			"card",
+			"container-fluid",
+			"id=\"contatos\"",
+			"inst_0",
+			"img",
+			"$thumbnail-border-width",
+			"id=\"convidado",
+			"container",
+			"headings-color",
+			"heandings-color",
+			"color",
+			"font-family",
+			"$body-bg",
+			"body",
+			"$navbar-light",
+			"link",
+			"class=\"nav-link\"",
+			"<li class=\"nav-link \">",
+			"ui",
+			"div",
+			"<!--",
+			"id=\"convidado\"",
+			"class=\"col-md-4\"",
+			"md-3",
+			"class=\"col-md-4\"",
+			"-ms-flexbox",
+			"}\n",
+			" class=\"col-md-4\"",
+			"row",
+			"include",
+			"id=\"convidado\"",
+			"id",
+			"class",
+			".menu",
+			"href=\"formulario_de_inscricao.php\"",
+			"autorizacao",
+			"</a>",
+			"<a href=\"#\">",
+			"';",
+			"$menuPrincipal.= '",
+			":\"></",
+			"<div>",
+			"div",
+			"post.png",
+			"src=\"\"",
+			"id",
+			"style=\"width:40px; height: 40px;\"",
+			"10px",
+			"inscricao_confirmada",
+			"image"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"id"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 67.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 51.0
+	},
+	"pinned_build_system": "",
+	"project": "hotsite.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
