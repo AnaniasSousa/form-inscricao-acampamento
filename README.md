@@ -12,8 +12,8 @@ _________________________VERSÃO 1.0_________________________
 > Exibe mensagens amigaveis de erro.
 
  ---------------- ESPECIFICAÇÕES TÉCNICAS ----------------- 
-> Classes:
-  Profeta (interpretador);
+> Classes
+> Profeta (interpretador);
 Tribo (Conteudo).
 
 > Objetos:
