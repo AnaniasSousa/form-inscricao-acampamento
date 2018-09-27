@@ -13,12 +13,12 @@ _________________________VERSÃO 1.0_________________________
 
  ---------------- ESPECIFICAÇÕES TÉCNICAS ----------------- 
 > Classes:
-	> Profeta (interpretador);
-	> Tribo (Conteudo).
+> Profeta (interpretador);
+> Tribo (Conteudo).
 
 > Objetos:
-	> Profeta;
-	> Tribo.
+> Profeta;
+> Tribo.
 
 --------------------- SOBRE A VERSÃO ---------------------
 > DATA: 27 09 2018;
