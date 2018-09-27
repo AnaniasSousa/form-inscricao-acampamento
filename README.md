@@ -13,7 +13,7 @@ _________________________VERSÃO 1.0_________________________
 
  ---------------- ESPECIFICAÇÕES TÉCNICAS ----------------- 
 > Classes:
-Profeta (interpretador);
+  Profeta (interpretador);
 Tribo (Conteudo).
 
 > Objetos:
